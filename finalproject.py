@@ -1,4 +1,3 @@
-#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
 #libraries needed to declare GPIO pins
 import mraa
 
